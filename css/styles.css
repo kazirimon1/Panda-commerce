@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #fceae8 ;
+}
+.categories img{
+    width: 100px;
+}
+.panda-bg-warning{
+    background-color: #ffa500;
+}
+.panda-bg-danger{
+    background-color: #da70d6;
+}
+.panda-bg-primary{
+    background-color: #0000ff;
+}
+.panda-btn-warning{
+    background-color: #ff428d;
+}
+.panda-text-warning{
+    color: #ff428d;
+
+}
